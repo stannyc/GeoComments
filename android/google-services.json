@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684177474306",
+    "firebase_url": "https://geoinfo-demo-94c4c.firebaseio.com",
+    "project_id": "geoinfo-demo-94c4c",
+    "storage_bucket": "geoinfo-demo-94c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684177474306:android:78119755283c5598",
+        "android_client_info": {
+          "package_name": "com.apansoft.geoinfodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684177474306-teu32m5g5d07k5u42ns91u2smlm0ut0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpGGz_xyWeD7QJMH_EksovwMLNtehWR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
